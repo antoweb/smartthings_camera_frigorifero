@@ -11,7 +11,7 @@ e commentare le righe 53 e 54
 
 **INSTALLAZIONE**:
 1) Scaricare il codice master
-2) Scompatare il contenuto e salvare la cartella samsung_familyhub_fridge in /config/custom_components di iA
+2) Scompatare il contenuto e salvare la cartella samsung_familyhub_fridge in /config/custom_components di HA
 3) RIavviare HA
 4) Dopo il riavvio andare su Integrazioni e cliccare su aggiungi integrazione
 5) Poi scegliere Samsung Family Hib Fridge
