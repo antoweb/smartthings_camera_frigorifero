@@ -3,7 +3,7 @@
   "name": "Samsung FamilyHub Fridge",
   "version": "0.0.1",
   "codeowners": [
-    "@ibielopolskyi"
+    "@antoweb"
   ],
   "config_flow": true,
   "dependencies": [],
