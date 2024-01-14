@@ -1,6 +1,6 @@
 {
-  "domain": "samsung_familyhub_fridge",
-  "name": "Samsung FamilyHub Fridge",
+  "domain": "samsung_frigorifero_familyhub",
+  "name": "Samsung Frigorifero FamilyHub",
   "version": "0.0.1",
   "codeowners": [
     "@antoweb"
