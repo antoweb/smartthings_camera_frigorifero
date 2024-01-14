@@ -22,7 +22,7 @@ Verrò chiesto token e device id
 Per recuperare il token andare su: https://account.smartthings.com/tokens col proprio account smartthings e abilitare tutti i dispositivi poi generare token
 Generare un token (è possibile salvarselo per usi futuri perchè una vokta generato non sarà più visibile)
 
-Per recuoerare il device id andare su: https://my.smartthings.com/advanced
+Per recuperare il device id andare su: https://my.smartthings.com/advanced
 1) Autenticarsi con account smarthings
 2) Cliccare su devices
 ![image](https://github.com/antoweb/smartthings_fridge_camera/assets/32364871/703731dd-d2d4-41c6-a424-b321a4d03cd8)
