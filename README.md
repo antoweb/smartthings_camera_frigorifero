@@ -1,9 +1,9 @@
 Fork di https://github.com/ibielopolskyi/smartthings_fridge_camera
 Integrazione per aggiungere entità Camera del Frigorifero Samsung Side by Side Family Hub ad Home Assistant
 Verranno aggiunte tre entità:
-frigorifero_top
-frigorifero_middle
-frigorifero_bottom
+camera.top
+camera.middle
+camera.bottom
 Se avete il frigorifero con una sola telecamera centrale aprire il file
 https://github.com/antoweb/smartthings_fridge_camera/blob/main/custom_components/samsung_familyhub_fridge/camera.py
 e commentare le righe 53 e 54
