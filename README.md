@@ -4,6 +4,7 @@ Verranno aggiunte tre entità:
 camera.top
 camera.middle
 camera.bottom
+
 Se avete il frigorifero con una sola telecamera centrale aprire il file
 https://github.com/antoweb/smartthings_fridge_camera/blob/main/custom_components/samsung_familyhub_fridge/camera.py
 e commentare le righe 53 e 54
