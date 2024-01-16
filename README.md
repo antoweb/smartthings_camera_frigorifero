@@ -33,7 +33,7 @@ Per recuperare il device id andare su: https://my.smartthings.com/advanced
 
 Inserire i due valori richiesti nella finestra dell'integrazione
 Riavviare Home Assistant
-Al tiavvio verranno create le entità camera visibili in Dashboard
+Al riavvio verranno create le entità camera visibili in Dashboard
 
 
 
