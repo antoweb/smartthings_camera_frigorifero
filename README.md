@@ -35,7 +35,7 @@ e commentare le righe 53 e 54
 10) Di nuovo su scarica
    <img width="263" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/7af7882e-2306-4a7d-bd3e-8f76581beda9">
    
-11) DOvreste avere la cartella samsung_frigorifero_familyhub in /config/custom_components
+11) Dovreste avere la cartella samsung_frigorifero_familyhub in /config/custom_components
 <img width="218" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/9a272b62-ff19-4750-a482-77da827ea382">
 
 12) Andare su Menu/Integrazioni
