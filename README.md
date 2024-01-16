@@ -48,7 +48,9 @@ e commentare le righe 53 e 54
 <img width="232" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/dc7798bf-6102-4dd4-a673-7840c8f49909">
 
 15) Cliccare sull'integrazione per aggiungerla ad Home Assistant
-16) Procedere alla configurazione come descritto sotto dal punto 8)
+
+16) Riavviare Home Assistant
+17) Procedere alla configurazione come descritto sotto dal punto 8)
 
 
 **INSTALLAZIONE SENZA HACS**:
