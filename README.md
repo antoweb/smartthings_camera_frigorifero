@@ -51,29 +51,31 @@ e commentare le righe 53 e 54
 16) Procedere alla configurazione come descritto sotto dal punto 8)
 
 
-**INSTALLAZIONE**:
+**INSTALLAZIONE SENZA HACS**:
 1) Scaricare il codice master
 2) Scompatare il contenuto e salvare la cartella samsung_frigorifero_familyhub in /config/custom_components di HA
 3) Riavviare HA
 4) Dopo il riavvio andare su Integrazioni e cliccare su aggiungi integrazione
 <img width="125" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/29e4c84d-2b46-4677-8bb2-e59f2ddea4ce">
-6) Digitare Frigorifero o FamilyHub nella casella di ricerca
-<img width="232" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/dc7798bf-6102-4dd4-a673-7840c8f49909">
-7) Cliccare sull'integrazione per aggiungerla ad Home Assistant
 
-8) Verrò chiesto token e device id
+5) Digitare Frigorifero o FamilyHub nella casella di ricerca
+<img width="232" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/dc7798bf-6102-4dd4-a673-7840c8f49909">
+
+6) Cliccare sull'integrazione per aggiungerla ad Home Assistant
+
+7) Verrò chiesto token e device id
 ![image](https://github.com/antoweb/smartthings_fridge_camera/assets/32364871/7def7960-2a0e-4127-a599-64018482d2ca)
 
-9) Per recuperare il token andare su: https://account.smartthings.com/tokens col proprio account smartthings e abilitare tutti i dispositivi poi generare token
+8) Per recuperare il token andare su: https://account.smartthings.com/tokens col proprio account smartthings e abilitare tutti i dispositivi poi generare token
 Generare un token (è possibile salvarselo per usi futuri perchè una vokta generato non sarà più visibile)
 
 Per recuperare il device id andare su: https://my.smartthings.com/advanced
 
-10) Autenticarsi con account smarthings
-11) Cliccare su devices
+9) Autenticarsi con account smarthings
+10) Cliccare su devices
 ![image](https://github.com/antoweb/smartthings_fridge_camera/assets/32364871/703731dd-d2d4-41c6-a424-b321a4d03cd8)
 
-12) Copiare il device id
+11) Copiare il device id
 ![image](https://github.com/antoweb/smartthings_fridge_camera/assets/32364871/325fb9f8-8460-48a0-9cb5-1db6574a962e)
 
 Inserire i due valori richiesti nella finestra dell'integrazione
