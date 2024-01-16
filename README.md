@@ -18,25 +18,35 @@ e commentare le righe 53 e 54
 
 4) Selezionare categoria Integrazione
 <img width="269" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/2e342683-bed7-4c66-a744-b9eefe7440a3">
+
 5) Cliccare su aggiungi
 6) Chiudere con la x se è comparso l'archivio nell'elenco
 <img width="317" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/717454a9-016c-4186-ab3e-8ac650dfda58">
+
 7) Su Hacs digitare family hub nella casella di ricerca
 <img width="286" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/b8840c79-75c7-4e10-adce-450278680030">
+
 8) Cliccare sopra e si aprirà pagina seguente
 <img width="362" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/f7ba4ff1-7ed3-40b6-ba94-71da1f5d8f81">
+
 9) Cliccare su scarica in basso a dx
 <img width="115" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/22b1517c-328e-450b-906a-52c2085da09a">
+
 10) Di nuovo su scarica
    <img width="263" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/7af7882e-2306-4a7d-bd3e-8f76581beda9">
+   
 11) DOvreste avere la cartella samsung_frigorifero_familyhub in /config/custom_components
 <img width="218" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/9a272b62-ff19-4750-a482-77da827ea382">
+
 12) Andare su Menu/Integrazioni
 <img width="301" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/ef2e55d7-f2c2-4d9a-b29f-620cccf50ea5">
+
 13) Cliccare su aggiungi integrazione in basso a dx
 <img width="125" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/29e4c84d-2b46-4677-8bb2-e59f2ddea4ce">
+
 14) Digitare Frigorifero o FamilyHub nella casella di ricerca
 <img width="232" alt="image" src="https://github.com/antoweb/smartthings_camera_frigorifero/assets/32364871/dc7798bf-6102-4dd4-a673-7840c8f49909">
+
 15) Cliccare sull'integrazione per aggiungerla ad Home Assistant
 16) Procedere alla configurazione come descritto sotto dal punto 8)
 
