@@ -11,8 +11,8 @@ e commentare le righe 53 e 54
 
 **INSTALLAZIONE**:
 1) Scaricare il codice master
-2) Scompatare il contenuto e salvare la cartella samsung_familyhub_fridge in /config/custom_components di HA
-3) RIavviare HA
+2) Scompatare il contenuto e salvare la cartella samsung_frigorifero_familyhub in /config/custom_components di HA
+3) Riavviare HA
 4) Dopo il riavvio andare su Integrazioni e cliccare su aggiungi integrazione
 5) Poi scegliere Samsung Family Hib Fridge
 ![image](https://github.com/antoweb/smartthings_fridge_camera/assets/32364871/3fa10943-64c2-47a4-b25d-b58c81ca5de9)
