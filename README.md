@@ -50,7 +50,7 @@ e commentare le righe 53 e 54
 15) Cliccare sull'integrazione per aggiungerla ad Home Assistant
 
 16) Riavviare Home Assistant
-17) Procedere alla configurazione come descritto sotto dal punto 8)
+17) Procedere alla configurazione come descritto sotto dal punto 7)
 
 
 **INSTALLAZIONE SENZA HACS**:
