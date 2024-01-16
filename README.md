@@ -6,7 +6,7 @@ camera.middle
 camera.bottom
 
 Se avete il frigorifero con una sola telecamera centrale aprire il file
-https://github.com/antoweb/smartthings_fridge_camera/blob/main/custom_components/samsung_familyhub_fridge/camera.py
+https://github.com/antoweb/smartthings_camera_frigorifero/blob/main/custom_components/samsung_frigorifero_familyhub/camera.py
 e commentare le righe 53 e 54
 
 **INSTALLAZIONE**:
