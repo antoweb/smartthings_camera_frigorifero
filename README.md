@@ -1,3 +1,5 @@
+PAYPAL DONTAION  
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/sistemistaitaliano/1)
 Fork di https://github.com/ibielopolskyi/smartthings_fridge_camera
 Integrazione per aggiungere entità Camera del Frigorifero Samsung Side by Side Family Hub ad Home Assistant
 Verranno aggiunte tre entità:
